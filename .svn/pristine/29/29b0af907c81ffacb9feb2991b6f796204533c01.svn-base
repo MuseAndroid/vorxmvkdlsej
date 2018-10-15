@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:background="#eaeaea">
+        <LinearLayout
+            android:id="@+id/credit2TitleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:background="@color/backgroundColor">
+            <TextView
+                android:id="@+id/credit2Title"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/backgroundColor"
+                android:text="고유식별정보의 처리에 관한 동의사항"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
+                android:textColor="#ffffff"
+                android:textSize="16dp"/>
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_below="@+id/credit2TitleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:fadeScrollbars="true">
+                <WebView
+                    android:id="@+id/creditView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp">
+                </WebView>
+            </ScrollView>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

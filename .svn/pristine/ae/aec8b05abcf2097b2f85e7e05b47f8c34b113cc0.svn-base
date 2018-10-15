@@ -1,0 +1,4042 @@
+[
+    {
+        "outputFile": "C:\\Users\\topgu\\Desktop\\catchBohum\\catchBohum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\Transcend\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Workspace\\iftRoot\\Android\\iftExDemo\\credit4uEx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\pcfriend\\.android\\build-cache\\b7e98d530802b142661dab03e4b13c4becb65cfc\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\android_work\\repo-factfinder_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\Transcend\\크롤링\\신정원 crawling\\20170811_지넥슨\\catchBohum\\catchBohum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\Transcend\\크롤링\\신정원 crawling\\20170811_지넥슨\\catchBohum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\junho\\.android\\build-cache\\5d5075ddbded235b813982ac146619fcfef6f45b\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\android_work\\repo-trd_crawling_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Users\\Seo\\.android\\build-cache\\bb56e1db70806b95b0b23918a18f1856a771d2ce\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\Desktop\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\Desktop\\소스관련폴더\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 108,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 124,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 94,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 113,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 99,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 75,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 75,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 79,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 102,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 98,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 95,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 103,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 97,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 100,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 115,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 96,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 78,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 78,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 100,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "C:\\Volumes\\JUNHO_USB\\크롤링\\신정원 crawling\\20170811_지넥슨\\credit4uEx\\C:\\Users\\topgu\\.android\\build-cache\\366df9ef1aabccd25bde3cd90eaaa72f92b8039d\\output\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 100,
+                        "endOffset": 2126
+                    }
+                }
+            }
+        ]
+    }
+]

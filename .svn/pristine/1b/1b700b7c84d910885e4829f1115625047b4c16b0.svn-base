@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff">
+
+    <RelativeLayout
+        android:id="@+id/popupComponent2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="#fff">
+        <LinearLayout
+            android:id="@+id/info_title"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:background="@color/backgroundColor">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/backgroundColor"
+                android:text="안내사항"
+                android:textAlignment="center"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:textColor="#ffffff"
+                android:textSize="16dp"/>
+
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_below="@+id/info_title"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:background="#fff">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:fadeScrollbars="true">
+                <WebView
+                    android:id="@+id/firstInfoView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp" />
+            </ScrollView>
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/popupComponent2"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnOK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="17dp"
+            android:background="@drawable/next_button_shape1"
+            android:text="확인"
+            />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="kr.co.genexon.factFinder.MemberJoinActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3966b2">
+
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/ic_back_w"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:gravity="center_vertical"
+            android:text="회원가입"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/backBtn"
+            app:layout_constraintTop_toTopOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="70dp"
+        android:layout_marginTop="50dp">
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ivMail_ic"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/ic_log_email"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/mber_email"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"
+                android:paddingLeft="10dp"
+                android:background="@null"
+                android:hint="이메일"
+                android:imeOptions="actionNext|flagNoExtractUi"
+                android:windowSoftInputMode="adjustUnspecified"
+                android:inputType="textEmailAddress"
+                android:nextFocusDown="@+id/mber_name"
+                android:textColorHint="#333333"
+                app:layout_constraintStart_toEndOf="@+id/ivMail_ic"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10dp"
+                android:alpha="0.5"
+                android:background="#a0a0a0"
+                app:layout_constraintTop_toBottomOf="@+id/mber_email"
+                tools:layout_editor_absoluteX="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <ImageView
+                android:id="@+id/ivName_ic"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/ic_log_name"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+
+            <EditText
+                android:id="@+id/mber_name"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"
+                android:paddingLeft="10dp"
+                android:background="@null"
+                android:hint="이름"
+                android:imeOptions="actionNext|flagNoExtractUi"
+                android:windowSoftInputMode="adjustUnspecified"
+                android:inputType="text"
+                android:nextFocusDown="@+id/mber_passwd"
+                android:textColorHint="#333333"
+                app:layout_constraintStart_toEndOf="@+id/ivName_ic"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10dp"
+                android:alpha="0.5"
+                android:background="#a0a0a0"
+                app:layout_constraintTop_toBottomOf="@+id/mber_name"
+                tools:layout_editor_absoluteX="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <ImageView
+                android:id="@+id/ivPw_ic"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/ic_log_pw"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout3"
+                tools:ignore="MissingConstraints" />
+
+            <EditText
+                android:id="@+id/mber_passwd"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"
+                android:paddingLeft="10dp"
+                android:background="@null"
+                android:hint="비밀번호"
+                android:imeOptions="actionNext|flagNoExtractUi"
+                android:windowSoftInputMode="adjustUnspecified"
+                android:inputType="textPassword"
+                android:nextFocusDown="@+id/mber_passwd_check"
+                android:textColorHint="#333333"
+                app:layout_constraintStart_toEndOf="@+id/ivPw_ic"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout3" />
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout4"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10dp"
+                android:alpha="0.5"
+                android:background="#a0a0a0"
+                app:layout_constraintTop_toBottomOf="@+id/mber_passwd"
+                tools:layout_editor_absoluteX="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <ImageView
+                android:id="@+id/ivRPW_ic"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/ic_log_pw_c"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout4"
+                tools:ignore="MissingConstraints" />
+
+            <EditText
+                android:id="@+id/mber_passwd_check"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"
+                android:paddingLeft="10dp"
+                android:background="@null"
+                android:hint="비밀번호 재확인"
+                android:imeOptions="actionNext|flagNoExtractUi"
+                android:windowSoftInputMode="adjustUnspecified"
+                android:inputType="textPassword"
+                android:nextFocusDown="@+id/mber_mobileNum"
+                android:textColorHint="#333333"
+                app:layout_constraintStart_toEndOf="@+id/ivRPW_ic"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout4" />
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout5"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10dp"
+                android:alpha="0.5"
+                android:background="#a0a0a0"
+                app:layout_constraintTop_toBottomOf="@+id/mber_passwd_check"
+                tools:layout_editor_absoluteX="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <ImageView
+                android:id="@+id/ivHp_ic"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/ic_log_mobile"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout5"
+                tools:ignore="MissingConstraints" />
+
+            <EditText
+                android:id="@+id/mber_mobileNum"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"
+                android:paddingLeft="10dp"
+                android:background="@null"
+                android:hint="핸드폰번호('-' 제외)"
+                android:imeOptions="actionDone|flagNoExtractUi"
+                android:windowSoftInputMode="adjustUnspecified"
+                android:inputType="number"
+                android:textColorHint="#333333"
+                app:layout_constraintStart_toEndOf="@+id/ivHp_ic"
+                app:layout_constraintTop_toBottomOf="@+id/relativeLayout5"
+                tools:ignore="MissingConstraints" />
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnMber_join"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:background="@drawable/next_button_shape"
+        android:text="회원가입"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+</android.support.constraint.ConstraintLayout>

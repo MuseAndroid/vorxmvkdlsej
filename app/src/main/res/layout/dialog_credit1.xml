@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#eaeaea"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <LinearLayout
+            android:id="@+id/credit1TitleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:background="@color/backgroundColor">
+            <TextView
+                android:id="@+id/credit1Title"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/backgroundColor"
+                android:text="개인정보 수집·이용에 관한 동의사항"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
+                android:textColor="#ffffff"
+                android:textSize="16dp"/>
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_below="@+id/credit1TitleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:fadeScrollbars="true">
+                <WebView
+                    android:id="@+id/creditView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp">
+                </WebView>
+            </ScrollView>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

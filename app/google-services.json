@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1075345844211",
+    "firebase_url": "https://factfinder-f5172.firebaseio.com",
+    "project_id": "factfinder-f5172",
+    "storage_bucket": "factfinder-f5172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075345844211:android:4fd588cce128daa3",
+        "android_client_info": {
+          "package_name": "kr.co.genexon.factFinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075345844211-atsdra2sroak3vgfijt6vkukk32eoncq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjhPJO67-9CfpUTJLfVGRMJBfJoRF3oOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

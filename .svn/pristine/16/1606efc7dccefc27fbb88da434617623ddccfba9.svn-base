@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:visibility="gone"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl_check_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="60dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    tools:showIn="@layout/activity_rebuild_user_data">
+
+    <TextView
+        android:id="@+id/title_user_id"
+        android:layout_width="80dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="@string/find_data_id"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnMoveLogin"
+        app:layout_constraintEnd_toStartOf="@+id/result_user_id"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/result_user_id"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="test@genexon.co.kr"
+        android:textColor="#4374D9"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btn_find_password"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/title_user_id"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnMoveLogin"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/next_button_shape"
+        android:text="로그인"
+        android:textColor="#fff"
+        app:layout_constraintEnd_toStartOf="@+id/btn_find_password"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="200dp" />
+
+    <Button
+        android:id="@+id/btn_find_password"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/next_button_shape"
+        android:text="비밀번호찾기"
+        android:textColor="#fff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btnMoveLogin"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="200dp" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="kr.co.genexon.factFinder.AgreeInfoUseActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3966b2">
+
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/ic_back_w"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:gravity="center_vertical"
+            android:text="이용약관동의"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/backBtn"
+            app:layout_constraintTop_toTopOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin">
+
+        <CheckBox
+            android:id="@+id/allAgreeChkBtn"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/agree_check_button"
+            android:button="@null"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/allChkTitle"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:text="이용약관, 개인정보 수집 및 이용에 모두 동의합니다."
+            android:textSize="13dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/allAgreeChkBtn"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="#a0a0a0"
+            app:layout_constraintTop_toBottomOf="@+id/allChkTitle"
+            tools:layout_editor_absoluteX="16dp"
+            tools:ignore="MissingConstraints" />
+
+        <CheckBox
+            android:id="@+id/userServiceChk"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/agree_check_button"
+            android:button="@null"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/relativeLayout"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/userServiceTitle"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:text="서비스 이용약관 동의(필수)"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/userServiceChk"
+            app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+
+        <ImageButton
+            android:id="@+id/detailBtn1"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/ic_arrow_right"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/userServiceTitle"
+            app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="#a0a0a0"
+            app:layout_constraintTop_toBottomOf="@+id/userServiceTitle"
+            tools:layout_editor_absoluteX="16dp"
+            tools:ignore="MissingConstraints" />
+
+        <CheckBox
+            android:id="@+id/personalInfoChk"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/agree_check_button"
+            android:button="@null"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/relativeLayout2"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/personalInfoTitle"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:text="개인정보 수집 및 이용에 대한 안내(필수)"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/personalInfoChk"
+            app:layout_constraintTop_toBottomOf="@+id/relativeLayout2" />
+
+        <ImageButton
+            android:id="@+id/detailBtn2"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:background="@drawable/ic_arrow_right"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/personalInfoTitle"
+            app:layout_constraintTop_toBottomOf="@+id/relativeLayout2" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="#a0a0a0"
+            app:layout_constraintTop_toBottomOf="@+id/personalInfoTitle"
+            tools:layout_editor_absoluteX="73dp"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btnNextGo"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/next_button_shape"
+            android:text="다음"
+            android:textColor="#fff"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:layout_editor_absoluteX="0dp"
+            tools:ignore="MissingConstraints" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.constraint.ConstraintLayout>

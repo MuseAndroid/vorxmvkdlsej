@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_marginBottom="20dp">
+    <RadioGroup
+        android:id="@+id/loginRBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+        <RadioButton
+            android:id="@+id/loginRBtn2"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:checked="true"
+            android:button="@null"
+            android:textColor="#fff"
+            android:background="@drawable/login_check_button"
+            android:layout_gravity="center_vertical"/>
+        <TextView
+            android:id="@+id/comUserTitle"
+            android:layout_width="90dp"
+            android:layout_height="24dp"
+            android:text="  기업회원"
+            android:textSize="15dp"
+            android:textColor="#fff"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+        <RadioButton
+            android:id="@+id/loginRBtn1"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:checked="true"
+            android:button="@null"
+            android:background="@drawable/login_check_button"
+            android:layout_marginLeft="30dp"/>
+        <TextView
+            android:id="@+id/singleUserTitle"
+            android:layout_width="90dp"
+            android:layout_height="24dp"
+            android:text="  개인회원"
+            android:textSize="15dp"
+            android:textColor="#fff"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"/>
+    </RadioGroup>
+</LinearLayout>

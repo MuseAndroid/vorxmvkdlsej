@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ff="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/companyLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#25ffffff"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.ssomai.android.scalablelayout.ScalableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ff:scale_base_height="200"
+                ff:scale_base_width="1440">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_log_company"
+                    ff:scale_height="120"
+                    ff:scale_left="20"
+                    ff:scale_width="120" />
+
+                <EditText
+                    android:id="@+id/etComCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/loginRBtn"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="회사코드"
+                    android:imeOptions="actionNext"
+                    android:inputType="text"
+                    android:nextFocusDown="@+id/etEmpCode"
+                    android:textColor="#fff"
+                    android:textColorHint="#fff"
+                    ff:scale_height="200"
+                    ff:scale_left="170"
+                    ff:scale_textsize="60"
+                    ff:scale_width="1270" />
+            </com.ssomai.android.scalablelayout.ScalableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="#25ffffff"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.ssomai.android.scalablelayout.ScalableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ff:scale_base_height="200"
+                ff:scale_base_width="1440">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_log_mem"
+                    ff:scale_height="120"
+                    ff:scale_left="20"
+                    ff:scale_width="120" />
+
+                <EditText
+                    android:id="@+id/etEmpCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/loginRBtn"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="사원코드"
+                    android:imeOptions="actionNext"
+                    android:inputType="text"
+                    android:nextFocusDown="@+id/etEmpPassword"
+                    android:textColor="#fff"
+                    android:textColorHint="#fff"
+                    ff:scale_height="200"
+                    ff:scale_left="170"
+                    ff:scale_textsize="60"
+                    ff:scale_width="1270" />
+            </com.ssomai.android.scalablelayout.ScalableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="#25ffffff"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.ssomai.android.scalablelayout.ScalableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ff:scale_base_height="200"
+                ff:scale_base_width="1440">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_pw"
+                    ff:scale_height="120"
+                    ff:scale_left="20"
+                    ff:scale_width="120" />
+
+                <EditText
+                    android:id="@+id/etEmpPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/loginRBtn"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="비밀번호"
+                    android:imeOptions="actionDone"
+                    android:inputType="textPassword"
+                    android:textColor="#fff"
+                    android:textColorHint="#fff"
+                    ff:scale_height="200"
+                    ff:scale_left="170"
+                    ff:scale_textsize="60"
+                    ff:scale_width="1270" />
+            </com.ssomai.android.scalablelayout.ScalableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="top"
+            android:orientation="horizontal">
+
+            <com.ssomai.android.scalablelayout.ScalableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ff:scale_base_height="500"
+                ff:scale_base_width="1440">
+
+                <Button
+                    android:id="@+id/btnComLogin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/login_button_shape"
+                    android:text="로그인"
+                    android:textColor="#3f62ba"
+                    android:textStyle="bold"
+                    ff:scale_height="200"
+                    ff:scale_textsize="80"
+                    ff:scale_width="1440" />
+            </com.ssomai.android.scalablelayout.ScalableLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

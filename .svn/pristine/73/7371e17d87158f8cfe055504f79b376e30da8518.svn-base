@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    android:id="@+id/cb_drawerLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:openDrawer="start"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/app_toolbar" />
+
+    <!--<android.support.design.widget.NavigationView-->
+        <!--android:id="@+id/cb_navigationView"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_gravity="start"-->
+        <!--android:textAlignment="center"-->
+        <!--android:background="#ffffff"-->
+        <!--app:itemTextColor="#ffffff">-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#bdbdbd">-->
+
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/cb_header"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:background="#ffffff"-->
+                <!--android:padding="10dp">-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="30dp"-->
+                    <!--android:src="@drawable/navi_title"-->
+                    <!--android:layout_centerVertical="true"-->
+                    <!--android:layout_alignParentLeft="true"/>-->
+            <!--</RelativeLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/cb_header"-->
+                <!--android:orientation="vertical">-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/cb_searchBohum"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="15dp"-->
+                    <!--android:text="보장분석"-->
+                    <!--android:textSize="15sp"-->
+                    <!--android:textColor="#000000"/>-->
+
+                <!--<View-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="1.5dp"-->
+                    <!--android:layout_marginLeft="4dp"-->
+                    <!--android:layout_marginRight="4dp"-->
+                    <!--android:background="#000000"/>-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/cb_com_introduce"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="15dp"-->
+                    <!--android:text="회사소개"-->
+                    <!--android:textSize="15sp"-->
+                    <!--android:textColor="#000000"/>-->
+            <!--</LinearLayout>-->
+        <!--</RelativeLayout>-->
+
+    <!--</android.support.design.widget.NavigationView>-->
+
+    <include layout="@layout/content_main"/>
+
+</android.support.design.widget.CoordinatorLayout>

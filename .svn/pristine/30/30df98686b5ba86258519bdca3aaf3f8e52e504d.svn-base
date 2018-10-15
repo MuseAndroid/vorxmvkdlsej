@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="56dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main">
+
+    <ScrollView
+        android:layout_below="@+id/th5"
+        android:id="@+id/SCROLLER_ID1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:scrollbars="vertical|horizontal"
+        android:fillViewport="true"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tvMsg"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:visibility="gone"/>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/main_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarAlwaysDrawVerticalTrack="false"
+        android:fadeScrollbars="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/allAgreeView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/agreeView2"
+                android:layout_marginTop="10dp">
+
+                <CheckBox
+                    android:id="@+id/allChk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:onClick="onChangeChkBtn" />
+
+                <TextView
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#555555"
+                    android:text="전체 동의 합니다." />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/info1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="235dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:focusable="true"
+                    android:text="한국신용정보원 제공 정보 활용 시 참조사항"
+                    android:textSize="15sp" />
+
+                <Button
+                    android:id="@+id/viewInfo"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/docbutton_shape"
+                    android:text="보기"
+                    android:textColor="#777777"
+                    android:textSize="11dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/supplyInfoChkView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/agreeView2">
+
+                <CheckBox
+                    android:id="@+id/supplyInfoChk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:onClick="onChangeChkBtn" />
+
+                <TextView
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="위 내용에 대하여 확인하였습니다." />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/th1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/info1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:text="이름   "
+                    android:textAlignment="center"
+                    android:textSize="15dp" />
+
+                <EditText
+                    android:id="@+id/userName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:nextFocusDown="@+id/juminNo1"
+                    android:text=""
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/th2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/th1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="주민번호   "
+                    android:textAlignment="center"
+                    android:textSize="15dp" />
+
+                <EditText
+                    android:id="@+id/juminNo1"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:inputType="number"
+                    android:nextFocusDown="@+id/juminNo2"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text=" - "
+                    android:textAlignment="center"
+                    android:textSize="15dp" />
+
+                <EditText
+                    android:id="@+id/juminNo2"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:inputType="numberPassword"
+                    android:nextFocusDown="@+id/phoneNumber"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/th3"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/th2">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="통신사   "
+                    android:textAlignment="center"
+                    android:textSize="15dp" />
+
+                <Button
+                    android:id="@+id/mobileSelect"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="100dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/docbutton_shape"
+                    android:textSize="11dp"
+                    android:text="SKT"
+                    android:textColor="#777777" />
+
+                <!--<TextView-->
+                <!--android:id="@+id/mobileSelect"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="14dp"-->
+                <!--android:textAlignment="center"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="통신사를 선택해주세요" />-->
+                <!--<EditText-->
+                <!--android:id="@+id/mobileco"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:hint="통신사"-->
+                <!--android:text="KTF"/>-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/th4"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/th3">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="전화번호   "
+                    android:textAlignment="center"
+                    android:textSize="15dp" />
+
+                <EditText
+                    android:id="@+id/phoneNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="number"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/agreeView1"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_below="@+id/th4"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/check_boxarea"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="내보험다보여 신용정보조회 동의 및 이용약관"
+                    android:textSize="12dp"
+                    android:textColor="#555555"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/check1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:text="개인정보 수집 ・ 이용에 동의합니다(필수)"
+                        android:textColor="#555555"/>
+
+                    <Button
+                        android:id="@+id/creditBtn1"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/check2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:text="고유식별정보 처리에 동의합니다(필수)"
+                        android:textColor="#555555"/>
+
+                    <Button
+                        android:id="@+id/creditBtn2"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/check3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:text="내보험다보여 이용약관에 동의합니다(필수)"
+                        android:textColor="#555555"/>
+
+                    <Button
+                        android:id="@+id/creditBtn3"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/agreeView2"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                android:layout_below="@+id/agreeView1"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/check_boxarea"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="통신사 개인정보 동의 및 이용약관"
+                    android:textColor="#555555"
+                    android:textSize="12dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/telCheck1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="#555555"
+                        android:text="개인정보이용동의" />
+
+                    <Button
+                        android:id="@+id/tel_docBtn1"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/telCheck2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="#555555"
+                        android:text="서비스이용약관동의" />
+
+                    <Button
+                        android:id="@+id/tel_docBtn2"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/telCheck3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="#555555"
+                        android:text="고유식별정보처리동의" />
+
+                    <Button
+                        android:id="@+id/tel_docBtn3"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <CheckBox
+                        android:id="@+id/telCheck4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:onClick="onChangeChkBtn"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:text="통신사이용약관 동의"
+                        android:textColor="#555555"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <Button
+                        android:id="@+id/tel_docBtn4"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/docbutton_shape"
+                        android:onClick="creditPopup"
+                        android:text="전문보기"
+                        android:textColor="#777777"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/th5"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@+id/allAgreeView">
+
+                <Button
+                    android:id="@+id/btnAll"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_shape"
+                    android:text="전체조회"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:layout_below="@+id/SCROLLER_ID1"
+        android:id="@+id/SCROLLER_ID2"
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:scrollbars="vertical|horizontal"
+        android:fillViewport="true"
+        android:visibility="gone">
+        <TextView
+            android:id="@+id/tvResult"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:textSize="14dp"
+            android:text=""
+            android:visibility="gone"/>
+    </ScrollView>
+
+
+</LinearLayout>

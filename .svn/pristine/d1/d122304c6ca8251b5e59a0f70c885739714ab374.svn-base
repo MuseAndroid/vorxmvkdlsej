@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="296dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#F6F6F6">
+        <TextView
+            android:id="@+id/popupId"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:textStyle="bold" />
+
+
+        <ImageButton
+            android:layout_below="@+id/popupId"
+            android:id="@+id/iBtn_skt"
+            android:layout_width="148dp"
+            android:layout_height="100dp"
+            android:background="#F6F6F6"
+            android:src="@drawable/skt_img"
+            android:scaleType="fitXY" />
+        <TextView
+            android:id="@+id/iBtn_skt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SKT"
+            android:paddingLeft="60dp"
+            android:paddingTop="70dp"/>
+
+        <ImageButton
+            android:layout_width="148dp"
+            android:layout_height="100dp"
+            android:id="@+id/iBtn_kt"
+            android:layout_below="@+id/popupId"
+            android:layout_alignParentRight="true"
+            android:background="#F6F6F6"
+            android:src="@drawable/kt_img"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/iBtn_kt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KTF"
+            android:paddingLeft="205dp"
+            android:paddingTop="70dp"/>
+
+        <ImageButton
+            android:id="@+id/iBtn_lgt"
+            android:layout_width="148dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/iBtn_skt"
+            android:background="#F6F6F6"
+            android:src="@drawable/lgt_img"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/iBtn_lgt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LGT"
+            android:paddingLeft="60dp"
+            android:paddingTop="170dp" />
+
+        <ImageButton
+        android:id="@+id/iBtn_skm"
+        android:layout_width="148dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/iBtn_kt"
+        android:src="@drawable/skt_img"
+        android:background="#F6F6F6"
+        android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/iBtn_skm_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SKM"
+            android:paddingLeft="180dp"
+            android:paddingTop="170dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="210dp"
+            android:paddingTop="170dp"
+            android:text="(SKT알뜰폰)"/>
+
+        <ImageButton
+            android:id="@+id/iBtn_ktm"
+            android:layout_width="148dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/iBtn_lgt"
+            android:src="@drawable/kt_img"
+            android:background="#F6F6F6"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/iBtn_ktm_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KTM"
+            android:paddingLeft="40dp"
+            android:paddingTop="255dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(KT알뜰폰)"
+            android:paddingLeft="70dp"
+            android:paddingTop="255dp"/>
+
+
+        <ImageButton
+            android:id="@+id/iBtn_lgm"
+            android:layout_width="148dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/iBtn_skm"
+            android:src="@drawable/lgt_img"
+            android:background="#F6F6F6"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/iBtn_lgm_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LGM"
+            android:paddingLeft="180dp"
+            android:paddingTop="255dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="210dp"
+            android:paddingTop="255dp"
+            android:text="(LGT알뜰폰)"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

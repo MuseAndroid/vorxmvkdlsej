@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/clLoginView"
+    android:background="@drawable/intro_1"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context=".LoginActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/login_scroll" >
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/ivFFTxt"
+                android:layout_width="112dp"
+                android:layout_height="18dp"
+                android:layout_marginTop="60dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/login_logo_1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="149dp"
+                android:layout_height="112dp"
+                android:layout_marginTop="30dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/login_logo_2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ivFFTxt"
+                tools:ignore="MissingConstraints" />
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="56dp"
+                android:background="#4882d4"
+                android:paddingLeft="-64dp"
+                android:paddingRight="-64dp"
+                app:layout_constraintTop_toBottomOf="@+id/imageView"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="41dp" />
+
+            <RadioGroup
+                android:id="@+id/loginRBtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="27.5dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                app:layout_constraintTop_toBottomOf="@+id/view"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="66dp">
+
+                <RadioButton
+                    android:id="@+id/loginRBtn2"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@drawable/login_check_button"
+                    android:button="@null"
+                    android:checked="true"
+                    android:textColor="#fff" />
+
+                <TextView
+                    android:id="@+id/comUserTitle"
+                    android:layout_width="70dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:text="  기업회원"
+                    android:textColor="#fff"
+                    android:textSize="12dp" />
+
+                <RadioButton
+                    android:id="@+id/loginRBtn1"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginLeft="42dp"
+                    android:background="@drawable/login_check_button"
+                    android:button="@null"
+                    android:checked="true" />
+
+                <TextView
+                    android:id="@+id/singleUserTitle"
+                    android:layout_width="70dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:text="  개인회원"
+                    android:textColor="#fff"
+                    android:textSize="12dp" />
+            </RadioGroup>
+
+            <FrameLayout
+                android:id="@+id/companyLogin"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="27.5dp"
+                app:layout_constraintTop_toBottomOf="@+id/loginRBtn"
+                tools:ignore="MissingConstraints"
+                android:visibility="gone"
+                tools:layout_editor_absoluteX="0dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#25ffffff"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginLeft="12dp"
+                        android:layout_gravity="center_vertical"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ic_log_company" />
+                    <EditText
+                        android:id="@+id/etComCode"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/loginRBtn"
+                        android:layout_marginLeft="20dp"
+                        android:background="@null"
+                        android:ems="10"
+                        android:hint="회사코드"
+                        android:imeOptions="actionNext|flagNoExtractUi"
+                        android:windowSoftInputMode="adjustUnspecified"
+                        android:inputType="text"
+                        android:nextFocusDown="@+id/etEmpCode"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#25ffffff"
+                    android:layout_marginTop="46dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginLeft="12dp"
+                        android:layout_gravity="center_vertical"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ic_log_mem" />
+                    <EditText
+                        android:id="@+id/etEmpCode"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/loginRBtn"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="15dp"
+                        android:background="@null"
+                        android:ems="10"
+                        android:hint="사원코드"
+                        android:imeOptions="actionNext|flagNoExtractUi"
+                        android:windowSoftInputMode="adjustUnspecified"
+                        android:inputType="text"
+                        android:nextFocusDown="@+id/etEmpPassword"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#25ffffff"
+                    android:layout_marginTop="92dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginLeft="12dp"
+                        android:layout_gravity="center_vertical"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ic_pw" />
+                    <EditText
+                        android:id="@+id/etEmpPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/loginRBtn"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="15dp"
+                        android:background="@null"
+                        android:ems="10"
+                        android:hint="비밀번호"
+                        android:imeOptions="actionDone|flagNoExtractUi"
+                        android:windowSoftInputMode="adjustUnspecified"
+                        android:inputType="textPassword"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginTop="151dp"
+                    android:gravity="top"
+                    android:orientation="horizontal">
+                    <Button
+                        android:id="@+id/btnComLogin"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/login_button_shape"
+                        android:textSize="18dp"
+                        android:text="로그인"
+                        android:textColor="#3f62ba"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/personalLogin"
+                android:layout_width="match_parent"
+                android:layout_height="290dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="27.5dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/loginRBtn"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#25ffffff"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="12dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ic_log_email" />
+
+                    <EditText
+                        android:id="@+id/etEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/loginRBtn"
+                        android:layout_marginLeft="20dp"
+                        android:background="@null"
+                        android:textSize="15dp"
+                        android:ems="10"
+                        android:hint="이메일"
+                        android:imeOptions="actionNext|flagNoExtractUi"
+                        android:windowSoftInputMode="adjustUnspecified"
+                        android:inputType="textEmailAddress"
+                        android:nextFocusDown="@+id/etPassword"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="46dp"
+                    android:background="#25ffffff"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="12dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ic_pw" />
+
+                    <EditText
+                        android:id="@+id/etPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/etEmail"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="15dp"
+                        android:background="@null"
+                        android:ems="10"
+                        android:hint="비밀번호"
+                        android:imeOptions="actionDone|flagNoExtractUi"
+                        android:windowSoftInputMode="adjustUnspecified"
+                        android:inputType="textPassword"
+                        android:textColor="#fff"
+                        android:textColorHint="#fff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginTop="105dp"
+                    android:gravity="top"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnLogin"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/login_button_shape"
+                        android:textSize="18dp"
+                        android:text="로그인"
+                        android:textColor="#3f62ba"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="163dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/find_userId"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="아이디 찾기"
+                        android:textSize="12dp"
+                        android:textColor="#fff" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/login_line" />
+
+                    <TextView
+                        android:id="@+id/find_userPw"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="12dp"
+                        android:gravity="center"
+                        android:text="비밀번호 찾기"
+                        android:textColor="#fff" />
+                </LinearLayout>
+            </FrameLayout>
+            <TextView
+                android:id="@+id/txtEnterJoin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="28dp"
+                android:layout_marginRight="28dp"
+                android:text="회원가입"
+                android:textColor="#ff9000"
+                android:textSize="14dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

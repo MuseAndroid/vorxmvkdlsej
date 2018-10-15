@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cb_searchBohum"
+            android:title="보장분석" />
+        <item
+            android:id="@+id/cb_com_introduce"
+            android:title="회사소개" />
+    </group>
+</menu>

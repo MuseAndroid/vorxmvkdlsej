@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">FactFinder</string>
+    <string name="action_settings">Settings</string>
+    <!--<string-array name="mobileArray">
+        <item>SKT</item>
+        <item>KTF</item>
+        <item>LGT</item>
+        <item>MVN</item>
+    </string-array>-->
+    <string name="info_text1">고객이 받은 인증번호를 알려주는 것은, 보장분석을 위해 고객의 개인정보 활용을 동의하는 것으로 간주 합니다.
+    </string>
+    <string name="info_text2">위 내용을 사전에 고객에게 충분히 고지하고\n동의를 받았습니다.
+    </string>
+    <string name="info_text3">조회자 본인이 계약자 또는 피보험자 자격으로 관련된 보험계약의 보장내역 및 관련 통계자료를 제공합니다.\n
+        조회일 현재 기준, 한국신용정보원이 신용정보 제공 ・ 이용자로부터 정상적으로 제공받는 정보에 대해서만 조회됩니다 계약 및 보장내역과 관련된 세부정보 및 문의사항은 해당 보험회사에 문의하시기 바랍니다.\n
+        내보험다보여 서비스는 정액형보장 계약내용과 실손형보장 계약내용으로 구분하여 정보를 제공합니다. 정액형보장 계약내용은 2006년 6월 이후 \'제 3자 정보제공\'에 동의한 보험신용정보에 한하여 제공됩니다.\n
+        (공제 및 체신관서의 경우는 2009년 10월 이후이며, 각 회사별로 시점의 차이가 있을 수 있습니다.)\n
+        또한, 자동차보험, 화재 ・ 배상책임(대물) 보험을 제외한 보장성 ・ 저축성 ・ 실손보험에 대하여 제공됩니다.\n
+        실손형보장 계약내용에서는 계약상태가 정상 및 실효이며 조회일이 보장기간 내에 해당되는 계약만 보여집니다.\n
+    </string>
+
+    <string name="alertBody1">
+        고객정보 조회는 모바일 인증 또는 카드 인증 중 한 가지를 선택하여 진행하실 수 있습니다.\n\n단, 휴대폰 또는 카드의 명의자가 고객 본인일 경우에 한하여 인증이 가능합니다.\n\n
+        [고객정보활용동의 안내]\n\n
+        ▶ 문자\n
+        고객정보활용동의 절차를 고객의 핸드폰으로 발송합니다.\n
+        이후 정보활용동의 절차는 고객의 핸드폰에서 직접 진행합니다.\n\n
+        ▶ 서명\n
+        현재 FactFinder를 실행 중인 핸드폰에 고객이 직접 서명하여 정보활용을 동의합니다.\n\n
+        * 고객의 보유계약이 많을 경우, 최대 3분까지 분석이 진행될 수 있습니다.
+    </string>
+
+    <string name="join_warning">메일 종류에 따라 스팸메일함으로 분류될 수 있으니,\n스펨메일함을 꼭 확인 해 주세요</string>
+    <string name="join_passwd">비밀번호는 영문(대소문자 구분없음), 숫자,\n특수문자(!@#$%^&amp;*)조합으로만\n사용가능합니다. (8~16자 이내)</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="submit">확인</string>
+
+    <string name="find_id_str">  아이디찾기</string>
+    <string name="find_pw_str">  비밀번호 찾기</string>
+    <string name="find_data_name">이름</string>
+    <string name="find_data_id">아이디</string>
+    <string name="find_data_hp">휴대폰번호</string>
+    <string name="find_data_email_str">이메일</string>
+    <string name="find_data_hp_hint">\'-\'를 제외한 핸드폰번호를 입력해주세요.</string>
+    <string name="find_data_btn_secure">인증번호 받기</string>
+    <string name="find_data_secure">인증번호</string>
+    <string name="find_data_sms">  휴대폰으로 인증</string>
+    <string name="find_data_email">  이메일로 인증</string>
+    <string name="fud_mail_warning">메일 종류에 따라 스팸메일함으로 분류될 수 있으니,\n스팸 메일함을 꼭 확인해 주시기 바랍니다.</string>
+    <string name="go_next">다음</string>
+
+    <!-- 아이디/패스워드 찾기 서버 응답 값 -->
+    <string name="statOK">인증번호를 전송하였습니다</string>
+    <string name="statFail">등록되지 않은 사용자이거나\n핸드폰번호 (이메일주소)가 맞지 않습니다</string>
+    <string name="statLoginApi">GA시스템(ERP/수수료) 시스템의\n아이디/비밀번호찾기를 이용하세요</string>
+    <string name="id_ok">ID찾기 인증성공, 다음 페이지로 이동합니다</string>
+    <string name="pw_ok">비밀번호찾기 인증성공, 다음 페이지로 이동합니다</string>
+    <string name="fc_fail">등록되지 않은 사용자이거나\n핸드폰번호(이메일주소)가 맞지 않습니다</string>
+    <string name="login_api">GA시스템(ERP/수수료) 시스템의\n아이디/비밀번호찾기를 이용하세요</string>
+    <string name="idpw_fail">인증번호가 맞지 않습니다\n확인 후 다시 입력해주세요</string>
+
+    <!-- fingerprint strings -->
+    <string name="cancel">취소</string>
+    <string name="use_password">비밀번호 입력</string>
+    <string name="sign_in">로그인</string>
+    <string name="ok">확인</string>
+    <string name="password">비밀번호</string>
+    <string name="fingerprint_description">지문을 인식시켜주세요</string>
+    <string name="fingerprint_hint">손가락을 지문센서에\n인식시켜주세요</string>
+    <string name="password_description">마지막으로 로그인한\n비밀번호를 입력시켜주세요</string>
+    <string name="purchase">구입</string>
+    <string name="purchase_not_invalidated">유효하지 않습니다</string>
+    <string name="purchase_button_not_invalidated_description">
+        You can proceed to purchase with this button \n even if a new fingerprint is enrolled
+    </string>
+    <string name="fingerprint_not_recognized">지문이 일치하지 않습니다\n다시 시도해주세요</string>
+    <string name="fingerprint_success">지문 일치</string>
+    <string name="item_title">White Mesh Pluto Backpack</string>
+    <string name="item_price">$62.68</string>
+    <string name="item_description">Mesh backpack in white. Black textile trim throughout.</string>
+    <string name="purchase_done">Purchase successful</string>
+    <string name="new_fingerprint_enrolled_description">이 장치에 새 지문이 추가되었으므로\n암호가 필요합니다.</string>
+    <string name="use_fingerprint_in_future">앞으로 지문을 사용</string>
+    <string name="use_fingerprint_to_authenticate_title">지문을 활용한 인증하기</string>
+    <string name="use_fingerprint_to_authenticate_key" >use_fingerprint_to_authenticate_key</string>
+    <string name="description_bugdroid_icon">Android bugdroid image</string>
+    <string name="description_fingerprint_icon">Fingerprint icon</string>
+
+</resources>
